@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">GPS 突擊</string>
+    <string name="Stage">關卡</string>
+    <string name="Permission_warn">需要位置權限</string>
+</resources>

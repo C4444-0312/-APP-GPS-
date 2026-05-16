@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="monster_name">
+        <item>Goblin</item>
+        <item>Minotaur</item>
+        <item>Werewolf</item>
+        <item>Slime</item>
+        <item>Demon</item>
+    </string-array>
+
+    <array name="monster_img">
+        <item>@drawable/goblin</item>
+        <item>@drawable/minotaur</item>
+        <item>@drawable/werewolf</item>
+        <item>@drawable/slime</item>
+        <item>@drawable/demon</item>
+    </array>
+
+    <string-array name="exit_prompt">
+        <item>Exit to Title</item>
+        <item>Exit to Title? Your progress will be saved.</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+</resources>
