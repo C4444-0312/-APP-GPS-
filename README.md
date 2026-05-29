@@ -9,7 +9,7 @@
 本專案是一款結合**真實世界地理位置服務 (LBS, Location-Based Services)** 與**放置點擊冒險 (Idle/Clicker RPG)** 的原生 Android 應用程式。核心玩法將使用者的現實行走距離轉換為遊戲中的巨大傷害輸出，藉此鼓勵戶外活動與健康生活。專案全面採用 **Java** 進行原生開發，深度整合硬體定位 API、本地關閉式資料庫持久化，並設計了流暢的 UI 屬性動畫與嚴謹的記憶體生命週期管理。
 
 
-🛠️ 開發環境與使用套件 (Tech Stack)
+# 🛠️ 開發環境與使用套件 (Tech Stack)
 開發語言：Java (JDK 17+)
 
 開發框架：原生 Android SDK (Min SDK API 24+, Target SDK API 34)
@@ -20,7 +20,7 @@
 
 UI 佈局技術：XML Layouts, EdgeToEdge 全螢幕沉浸式視窗安全邊緣設定 (ViewCompat.setOnApplyWindowInsetsListener)
 
-🚀 執行與測試說明
+# 🚀 執行與測試說明
 將本專案導入至 Android Studio。
 
 確保手機或模擬器已安裝 Google Play 服務。
